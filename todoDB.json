@@ -1,0 +1,34 @@
+{
+    "name": "pragati",
+    "Data": "2023-01-07",
+    "today": [
+        {
+            "description": "study",
+            "scheduled_time": "1300"
+        },
+        {
+            "description": "hhkg",
+            "scheduled_time": "1300"
+        },
+        {
+            "description": "ffhjs",
+            "scheduled_time": "1255"
+        },
+        {
+            "description": "study",
+            "scheduled_time": "1200"
+        },
+        {
+            "task_id": 0,
+            "description": "study",
+            "scheduled_time": "1300",
+            "status": "TBD"
+        },
+        {
+            "task_id": 1,
+            "description": "1200",
+            "scheduled_time": "1200",
+            "status": "TBD"
+        }
+    ]
+}
